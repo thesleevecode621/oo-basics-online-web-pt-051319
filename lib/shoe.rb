@@ -8,5 +8,5 @@ class Shoe
    @brand
  end 
  def cobble
-   puts "our shoe is as good as new!
+   puts"Your shoe is as good as new!"
 end 

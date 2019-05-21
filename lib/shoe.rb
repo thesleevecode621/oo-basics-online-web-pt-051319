@@ -7,5 +7,6 @@ class Shoe
  def brand
    @brand
  end 
- def cobble 
+ def cobble
+   puts 
 end 
